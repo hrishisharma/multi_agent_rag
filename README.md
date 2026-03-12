@@ -28,18 +28,6 @@ A modular multi-agent Retrieval-Augmented Generation (RAG) system built using lo
 - Mistral
 - FastAPI
 
-## Project Structure
-
-multi_agent_rag/
-│── agents/
-│── data/
-│── vectorstore/
-│── server.py
-│── memory.py
-│── logger.py
-│── requirements.txt
-│── Dockerfile
-
 ## Run Locally
 
 ```bash
